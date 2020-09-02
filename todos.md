@@ -31,3 +31,8 @@ https://www.amazon.com/Staging-Product-Not-Retail-Sale/dp/B07QK955LS/ref=as_li_s
 
 ## `04_Deploying_Campaigns_and_Filters.ipynb`
 
+Update narrative content throughout
+
+## `05_Interacting_with_Campaigns_and_Filters.ipynb`
+
+Update docs to reflect the movie that is selected.
